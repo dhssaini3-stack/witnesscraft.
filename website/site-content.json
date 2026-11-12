@@ -1,0 +1,115 @@
+{
+  "_help": {
+    "how": "Edit this file by hand or use the on-page editor (Ctrl+Shift+E). Each page has its own section: index, projects.",
+    "texts[]": "Change an existing line. Identify it with tag + from (its ORIGINAL text). Optional: html (new text), size (px), weight (100-900), font (CSS font-family), color (#rrggbb), x / y (px nudge, +right/+down), z (front order, bigger = in front), hide (true = remove from page).",
+    "texts example": {
+      "tag": "H1",
+      "from": "Original heading text",
+      "html": "New heading",
+      "size": 64,
+      "weight": 700,
+      "x": 0,
+      "y": 20,
+      "z": 10
+    },
+    "added[]": "Brand-new lines. Fields: html, x, y (px from page top-left), size, weight, font, color, z. Delete the item to remove the line.",
+    "added example": {
+      "html": "Hello world",
+      "x": 80,
+      "y": 300,
+      "size": 28,
+      "weight": 600,
+      "z": 50
+    }
+  },
+  "index": {
+    "texts": [
+      {
+        "tag": "P",
+        "from": "Brand Video Editing",
+        "html": "Podcast Editing"
+      },
+      {
+        "tag": "P",
+        "from": "Podcast Editing",
+        "html": "Documentary Editing"
+      }
+    ],
+    "added": [],
+    "images": [
+      {
+        "key": "1sd6l8w_103",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdBSzwkGdm3TTMkaZRrLHfZbDBRNYl0-N2JIZLEVAPVQ&s"
+      }
+    ],
+    "videos": [
+      {
+        "from": "25oSXXNSLLs",
+        "url": "https://youtu.be/fs0CcSN_VDw",
+        "title": "Bairi Song से धूम मचाने वाले Singer Pradeep Solanki ने बताई Viral गाने के पीछे की पूरी कहानी"
+      },
+      {
+        "from": "W0shuLIuA-I",
+        "url": "https://youtu.be/PQ52Q3JKa9s",
+        "title": "क्या हुआ मेरे Jodhpur को? 20 साल में कैसे गायब हो गया Blue City का असली रंग Documentary on Jodhpur"
+      },
+      {
+        "from": "b21LAOysjMg",
+        "url": "https://youtu.be/li71nDMXwLs",
+        "title": "तोपों में राजपूतों ने दे दिए थे अपने सिर! राजस्थान का रोंगटे खड़े कर देने वाला इतिहास"
+      },
+      {
+        "from": "HzrwBIKDHUM",
+        "url": "https://youtu.be/tYKrORILFOg",
+        "title": "Bollywood छोड़कर RAS बने 12th और Graduation Fail RAS Brijesh Parmar का मजेदार Interview"
+      },
+      {
+        "from": "Sq0LLFYPBYE",
+        "url": "https://youtu.be/YSb0Ho5RCQ0",
+        "title": "Peppa pig GANESH CHATURTHI celebration edited video funny with memes watch now"
+      }
+    ],
+    "comments": [
+      {
+        "quote": "Kunal Saini is a talented editor. I really liked the way he edited my reports and brought out the story so beautifully. His creativity and understanding of journalism make his work stand out. It was a great experience working with him. Wishing him all the best for the future.",
+        "name": "@anchor_bablu",
+        "role": "150k+ followers"
+      },
+      {
+        "quote": "Working with Kunal felt like having a seasoned design partner **who truly understood our vision for Zazzle **and brought it to life in ways we hadn't even imagined.",
+        "name": "Thomas Weber",
+        "role": "Co-founder of KYMA"
+      },
+      {
+        "quote": "Our website **conversion rate improved significantly** thanks to Kunal's expertise.",
+        "name": "Ben Harper",
+        "role": "CTO of Nexus"
+      },
+      {
+        "quote": "Kunal's design approach brought clarity to our complex data visualizations. Our users are thrilled!",
+        "name": "Michael Wong",
+        "role": "Data Scientist at DataSphere"
+      },
+      {
+        "quote": "The rebranding exceeded our expectations. **It's given us a competitive edge in our industry.**",
+        "name": "Natalie Rivera",
+        "role": "Brand Manager at UnityBrands"
+      },
+      {
+        "quote": "The redesign transformed our brand image. **We've seen a 30% increase in engagement** since launch.",
+        "name": "Emma Kraft",
+        "role": "CMO of TechVista"
+      }
+    ],
+    "grids": {},
+    "hero": []
+  },
+  "projects": {
+    "texts": [],
+    "images": [],
+    "videos": [],
+    "comments": [],
+    "grids": {},
+    "added": []
+  }
+}
